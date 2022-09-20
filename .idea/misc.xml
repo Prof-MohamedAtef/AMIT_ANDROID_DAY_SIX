@@ -4,10 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidProjects/amit/DaySixListViews/app/src/main/res/drawable/add_item_shape.xml" value="0.327" />
+        <entry key="..\:/AndroidProjects/amit/DaySixListViews/app/src/main/res/layout/activity_list_view.xml" value="0.358695652173913" />
         <entry key="..\:/AndroidProjects/amit/DaySixListViews/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
         <entry key="..\:/AndroidProjects/amit/DaySixListViews/app/src/main/res/layout/exclusive_list_item.xml" value="0.358695652173913" />
         <entry key="..\:/AndroidProjects/amit/DaySixListViews/app/src/main/res/layout/exclusive_offer_fragment.xml" value="0.358695652173913" />
         <entry key="..\:/AndroidProjects/amit/DaySixListViews/app/src/main/res/layout/fragment_exclusive.xml" value="0.35260416666666666" />
+        <entry key="..\:/AndroidProjects/amit/DaySixListViews/app/src/main/res/layout/list_view_persons_items.xml" value="0.358695652173913" />
       </map>
     </option>
   </component>

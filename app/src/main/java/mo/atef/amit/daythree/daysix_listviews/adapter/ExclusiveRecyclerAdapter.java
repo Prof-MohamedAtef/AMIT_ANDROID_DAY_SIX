@@ -29,7 +29,6 @@ public class ExclusiveRecyclerAdapter extends RecyclerView.Adapter<ExclusiveRecy
         this.offersList=list;
     }
 
-
     @NonNull
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
