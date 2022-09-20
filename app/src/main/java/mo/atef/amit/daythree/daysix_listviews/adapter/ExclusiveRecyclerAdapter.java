@@ -53,14 +53,14 @@ public class ExclusiveRecyclerAdapter extends RecyclerView.Adapter<ExclusiveRecy
                         .into(binding.fruitImage);
             }
             binding.tvTitle.setText(offer.getTitle());
-            binding.tvCurrency.setText(offer.getPrice());
-            binding.tvPrice.setText(offer.getWeight());
+            binding.tvCurrency.setText("E£"+String.valueOf(offer.getWeight()));
+            binding.tvPrice.setText(String.valueOf(offer.getPrice())+" g");
         }
     }
 
     @Override
     public int getItemCount() {
-        return 0;
+        return offersList.size();
     }
 
 
